@@ -1,0 +1,13 @@
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\bin\Debug\netcoreapp3.1\ProcessoAdisra.exe
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\bin\Debug\netcoreapp3.1\ProcessoAdisra.deps.json
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\bin\Debug\netcoreapp3.1\ProcessoAdisra.runtimeconfig.json
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\bin\Debug\netcoreapp3.1\ProcessoAdisra.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\bin\Debug\netcoreapp3.1\ProcessoAdisra.dll
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\bin\Debug\netcoreapp3.1\ProcessoAdisra.pdb
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\obj\Debug\netcoreapp3.1\ProcessoAdisra.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\obj\Debug\netcoreapp3.1\ProcessoAdisra.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\obj\Debug\netcoreapp3.1\ProcessoAdisra.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\obj\Debug\netcoreapp3.1\ProcessoAdisra.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\obj\Debug\netcoreapp3.1\ProcessoAdisra.dll
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\obj\Debug\netcoreapp3.1\ProcessoAdisra.pdb
+C:\Users\PICHAU\source\repos\ConversãoMonetária\ProcessoAdisra\obj\Debug\netcoreapp3.1\ProcessoAdisra.genruntimeconfig.cache
