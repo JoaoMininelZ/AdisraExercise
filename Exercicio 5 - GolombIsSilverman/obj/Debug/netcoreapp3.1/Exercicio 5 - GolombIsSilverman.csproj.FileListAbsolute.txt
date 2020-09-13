@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\bin\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.exe
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\bin\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.deps.json
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\bin\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\bin\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\bin\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.dll
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\bin\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.pdb
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\obj\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\obj\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\obj\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\obj\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\obj\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.dll
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\obj\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.pdb
+C:\Users\PICHAU\Desktop\Adisra_Exercicios\Exercicio 5 - GolombIsSilverman\obj\Debug\netcoreapp3.1\Exercicio 5 - GolombIsSilverman.genruntimeconfig.cache
