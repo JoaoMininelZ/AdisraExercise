@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercício 4 - Palíndromo/1.0.0": {
+        "runtime": {
+          "Exercício 4 - Palíndromo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício 4 - Palíndromo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
