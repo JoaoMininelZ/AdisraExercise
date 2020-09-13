@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercício 2 - Frenquência/1.0.0": {
+        "runtime": {
+          "Exercício 2 - Frenquência.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício 2 - Frenquência/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
